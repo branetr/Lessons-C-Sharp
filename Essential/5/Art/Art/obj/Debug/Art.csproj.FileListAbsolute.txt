@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\5\Art\Art\bin\Debug\Art.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\5\Art\Art\bin\Debug\Art.exe
+D:\Rout to Programmer\Prog\SecondLVL\5\Art\Art\bin\Debug\Art.pdb
+D:\Rout to Programmer\Prog\SecondLVL\5\Art\Art\obj\Debug\Art.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\5\Art\Art\obj\Debug\Art.exe
+D:\Rout to Programmer\Prog\SecondLVL\5\Art\Art\obj\Debug\Art.pdb

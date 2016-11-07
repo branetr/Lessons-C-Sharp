@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\5\Indexes_5\Indexes_5\bin\Debug\Indexes_5.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\5\Indexes_5\Indexes_5\bin\Debug\Indexes_5.exe
+D:\Rout to Programmer\Prog\SecondLVL\5\Indexes_5\Indexes_5\bin\Debug\Indexes_5.pdb
+D:\Rout to Programmer\Prog\SecondLVL\5\Indexes_5\Indexes_5\obj\Debug\Indexes_5.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\5\Indexes_5\Indexes_5\obj\Debug\Indexes_5.exe
+D:\Rout to Programmer\Prog\SecondLVL\5\Indexes_5\Indexes_5\obj\Debug\Indexes_5.pdb

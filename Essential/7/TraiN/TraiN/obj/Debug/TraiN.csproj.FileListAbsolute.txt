@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\7\TraiN\TraiN\bin\Debug\TraiN.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\7\TraiN\TraiN\bin\Debug\TraiN.exe
+D:\Rout to Programmer\Prog\SecondLVL\7\TraiN\TraiN\bin\Debug\TraiN.pdb
+D:\Rout to Programmer\Prog\SecondLVL\7\TraiN\TraiN\obj\Debug\TraiN.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\7\TraiN\TraiN\obj\Debug\TraiN.exe
+D:\Rout to Programmer\Prog\SecondLVL\7\TraiN\TraiN\obj\Debug\TraiN.pdb

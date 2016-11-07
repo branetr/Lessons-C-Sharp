@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\2\Invouceee\Invouceee\bin\Debug\Invouceee.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\2\Invouceee\Invouceee\bin\Debug\Invouceee.exe
+D:\Rout to Programmer\Prog\SecondLVL\2\Invouceee\Invouceee\bin\Debug\Invouceee.pdb
+D:\Rout to Programmer\Prog\SecondLVL\2\Invouceee\Invouceee\obj\Debug\Invouceee.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\2\Invouceee\Invouceee\obj\Debug\Invouceee.exe
+D:\Rout to Programmer\Prog\SecondLVL\2\Invouceee\Invouceee\obj\Debug\Invouceee.pdb

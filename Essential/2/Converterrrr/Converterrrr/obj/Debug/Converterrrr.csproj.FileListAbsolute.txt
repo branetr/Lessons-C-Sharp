@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\2\Converterrrr\Converterrrr\bin\Debug\Converterrrr.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\2\Converterrrr\Converterrrr\bin\Debug\Converterrrr.exe
+D:\Rout to Programmer\Prog\SecondLVL\2\Converterrrr\Converterrrr\bin\Debug\Converterrrr.pdb
+D:\Rout to Programmer\Prog\SecondLVL\2\Converterrrr\Converterrrr\obj\Debug\Converterrrr.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\2\Converterrrr\Converterrrr\obj\Debug\Converterrrr.exe
+D:\Rout to Programmer\Prog\SecondLVL\2\Converterrrr\Converterrrr\obj\Debug\Converterrrr.pdb

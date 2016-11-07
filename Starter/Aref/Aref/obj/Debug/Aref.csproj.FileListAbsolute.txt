@@ -1,0 +1,6 @@
+E:\Prog\Starter\Aref\Aref\bin\Debug\Aref.exe.config
+E:\Prog\Starter\Aref\Aref\bin\Debug\Aref.exe
+E:\Prog\Starter\Aref\Aref\bin\Debug\Aref.pdb
+E:\Prog\Starter\Aref\Aref\obj\Debug\Aref.csprojResolveAssemblyReference.cache
+E:\Prog\Starter\Aref\Aref\obj\Debug\Aref.exe
+E:\Prog\Starter\Aref\Aref\obj\Debug\Aref.pdb

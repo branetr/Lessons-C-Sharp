@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\3\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\3\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\3\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Rout to Programmer\Prog\SecondLVL\3\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Rout to Programmer\Prog\SecondLVL\3\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Rout to Programmer\Prog\SecondLVL\3\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

@@ -1,0 +1,6 @@
+D:\Rout to Programmer\Prog\SecondLVL\2\Co3\Co3\bin\Debug\Co3.exe.config
+D:\Rout to Programmer\Prog\SecondLVL\2\Co3\Co3\bin\Debug\Co3.exe
+D:\Rout to Programmer\Prog\SecondLVL\2\Co3\Co3\bin\Debug\Co3.pdb
+D:\Rout to Programmer\Prog\SecondLVL\2\Co3\Co3\obj\Debug\Co3.csprojResolveAssemblyReference.cache
+D:\Rout to Programmer\Prog\SecondLVL\2\Co3\Co3\obj\Debug\Co3.exe
+D:\Rout to Programmer\Prog\SecondLVL\2\Co3\Co3\obj\Debug\Co3.pdb
